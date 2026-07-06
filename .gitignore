@@ -1,0 +1,6 @@
+# Ignore esses arquivos
+# o .env, o pycache, os arquivos do virtual env e do banco de dados
+.env
+__pycache__/
+*.pyc
+db.sqlite3
